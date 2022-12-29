@@ -1,5 +1,5 @@
 ---
 layout: page
-permalink: /about/
-title: About 
+permalink: /gallery/
+title: Gallery 
 ---
